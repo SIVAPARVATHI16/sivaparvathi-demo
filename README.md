@@ -1,4 +1,4 @@
 # sivaparvathi-demo
 this is my first git repository
 
-author- sivaparvathi
+author- sivaparvathi(Siva)
